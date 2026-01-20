@@ -1,0 +1,7 @@
+audio files/
+base sets/
+*.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+desktop.ini
